@@ -1,0 +1,1 @@
+This repository contains the code, models, and dataset for the paper 'A Dataset for Semantic and Instance Segmentation of Modern Fruit Orchards,' presented at CVPRW 2025. All resources will be made available soon—stay tuned for updates!
