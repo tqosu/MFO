@@ -1,4 +1,4 @@
-# A Dataset for Semantic and Instance Segmentation of Modern Fruit Orchards ([CVPRW'25 V4A](https://www.agriculture-vision.com/)
+# A Dataset for Semantic and Instance Segmentation of Modern Fruit Orchards ([CVPRW'25 V4A](https://www.agriculture-vision.com/))
 
 [Tieqiao Wang](https://web.engr.oregonstate.edu/~wangtie), [Abhinav Jain](https://web.engr.oregonstate.edu/~jainab/), [Liqiang He](https://helq2612.github.io/), [Cindy Grimm](https://web.engr.oregonstate.edu/~grimmc/), [Sinisa Todorovic](https://web.engr.oregonstate.edu/~sinisa/)
 
