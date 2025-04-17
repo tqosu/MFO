@@ -7,10 +7,6 @@ This repository contains the code, models, and dataset for the paper. All resour
 
 ## 🌳 Dataset
 
-<div align="center">
-  <img src="https://github.com/tqosu/MFO/blob/main/image/real_data.png" width="100%" height="100%"/>
-</div><br/>
-
 ### 🌲 Real-World Data
 #### [**UFO Cherries**](https://oregonstate.box.com/s/krarnn9v3exzqg2f7w1gj6xhnfycww1r) -- 132 videos collected in 4 settings.
 - **Cherry\_UFO\_1 (December 2021)** :  Recorded with a handheld cellphone (no depth sensing) at 1080×1920 resolution under overcast conditions. The camera moved in a rectangular pattern close to the tree. This subset comprises 3 videos, totaling 50 seconds or 1500 frames.
@@ -33,3 +29,7 @@ This repository contains the code, models, and dataset for the paper. All resour
 
 -  [**Datasets**](https://oregonstate.box.com/s/gbl135jvw8gched92ygx2rhzdvz0hgur): Created UFO-synthetic and Envy-synthetic datasets, each containing 5,000 independent RGB images with corresponding labels and depth images. These datasets can be expanded indefinitely due to their synthetic nature.
 -  [**Tree Meshes**](https://oregonstate.box.com/s/mcpzd0eamskyg06q1fnky8dncswycpq6): Released the 3D tree mesh models used to generate these synthetic datasets.
+
+<div align="center">
+  <img src="https://github.com/tqosu/MFO/blob/main/image/synth_data1.png" width="100%" height="100%"/>
+</div><br/>
