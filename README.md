@@ -1,4 +1,4 @@
-# A Dataset for Semantic and Instance Segmentation of Modern Fruit Orchards ([CVPRW'25 V4A](https://www.agriculture-vision.com/))
+# [A Dataset for Semantic and Instance Segmentation of Modern Fruit Orchards](https://web.engr.oregonstate.edu/~wangtie/files/V4A-11.pdf) ([CVPRW'25 V4A](https://www.agriculture-vision.com/))
 
 [Tieqiao Wang](https://web.engr.oregonstate.edu/~wangtie), [Abhinav Jain](https://web.engr.oregonstate.edu/~jainab/), [Liqiang He](https://helq2612.github.io/), [Cindy Grimm](https://web.engr.oregonstate.edu/~grimmc/), [Sinisa Todorovic](https://web.engr.oregonstate.edu/~sinisa/)
 
@@ -27,9 +27,25 @@ This repository contains the code, models, and dataset for the paper. All resour
 
 ### 🎄 Synthetic Data
 
--  [**Images**](https://oregonstate.box.com/s/gbl135jvw8gched92ygx2rhzdvz0hgur): Created UFO-synthetic and Envy-synthetic datasets, each containing 5,000 independent RGB images with corresponding labels and depth images. These datasets can be expanded indefinitely due to their synthetic nature.
--  [**Tree Meshes**](https://oregonstate.box.com/s/mcpzd0eamskyg06q1fnky8dncswycpq6): Released the 3D tree mesh models used to generate these synthetic datasets.
+-  [**Images**](https://oregonstate.box.com/s/gbl135jvw8gched92ygx2rhzdvz0hgur): UFO-synthetic and Envy-synthetic datasets, each containing 5,000 independent RGB images with corresponding labels and depth images. These datasets can be expanded indefinitely due to their synthetic nature.
+-  [**Tree Meshes**](https://oregonstate.box.com/s/mcpzd0eamskyg06q1fnky8dncswycpq6): the 3D tree mesh models used to generate these synthetic datasets.
 
 <div align="center">
   <img src="https://github.com/tqosu/MFO/blob/main/image/synth_data1.png" width="100%" height="100%"/>
 </div><br/>
+
+## 🛠️ Installation \& Usage
+
+We list the codebase links for different settings in the paper.
+
+**Unsupervised Domain Adaptation (UDA)** 
+https://github.com/lhoyer/MIC
+
+**Instance Segmentation** 
+https://github.com/facebookresearch/Mask2Former
+
+**SAM 2: Segment Anything in Images and Videos**
+https://github.com/facebookresearch/sam2
+
+**Image Polygonal Annotation**
+https://github.com/wkentaro/labelme
